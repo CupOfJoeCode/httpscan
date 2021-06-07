@@ -1,5 +1,5 @@
 # httpscan
-A very simple script which scans a local network for any HTTP servers that are running.
+A very simple script which scans a local network for any HTTP servers that are running. Basically a way crappier version of nmap with a GUI.
 
 Dependencies:
   requests (pip install requests)
